@@ -4,4 +4,4 @@ practica de git
 
 Este archivo va a ser modificado
 vivo en España
-hola
+hoy hablaremos de su vida
