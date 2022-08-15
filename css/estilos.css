@@ -3,7 +3,15 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+#cabecera{
+    background-color: darkslateblue;
+    color: #fff;
+    height: 40px;
+   font-size: 20px;
+}
 div{
     background-color: yellow;
-    border: 2px solid ;
+    border: 2px solid #fff;
+    box-shadow: 0px 2px 20px 0px #000;
+
 }
